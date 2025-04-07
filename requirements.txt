@@ -11,6 +11,7 @@ nltk
 numpy
 pandas
 wordcloud
+scikit_learn
 seaborn
 datasets
 ipykernel
